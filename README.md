@@ -375,7 +375,7 @@ Estos ejercicios practican los siguientes conceptos fundamentales:
 ---
 
 ## 📂 Estructura del proyecto
-
+```
 Taller POO/
 │
 ├── src/
@@ -398,7 +398,7 @@ Taller POO/
 │
 ├── Taller POO.iml
 └── README.md
-
+```
 ---
 
 ## 🐛 Solución de problemas comunes
