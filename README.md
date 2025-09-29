@@ -376,17 +376,28 @@ Estos ejercicios practican los siguientes conceptos fundamentales:
 
 ## 📂 Estructura del proyecto
 
-```
-proyecto/
+Taller POO/
 │
-├── Libro.java
-├── Coche.java
-├── Estudiante.java
-├── CuentaBancaria.java
-├── Pelicula.java
-├── Museo.java
+├── src/
+│   ├── Libro.java
+│   ├── Coche.java
+│   ├── Estudiante.java
+│   ├── CuentaBancaria.java
+│   ├── Pelicula.java
+│   └── Museo.java
+│
+├── out/
+│   └── production/
+│       └── Taller POO/
+│           ├── Libro.class
+│           ├── Coche.class
+│           ├── Estudiante.class
+│           ├── CuentaBancaria.class
+│           ├── Pelicula.class
+│           └── Museo.class
+│
+├── Taller POO.iml
 └── README.md
-```
 
 ---
 
